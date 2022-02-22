@@ -1,0 +1,19 @@
+Process, creativity and quality.
+
+Applying these 3 practices on complex topics and creating simple projects is the best way to understand these topics.
+
+Six important topics a modern programmer needs to function
+1. Getting started: You learn quick hacks to start a project.
+2. Data Structures
+3. Algorithms
+4. Parsing Text
+5. Data Modeling
+6. Unix Tools / Command Line tools
+
+The purpose of Learn More Python 3 the Hard way is to improve your personal skills and your objective out look on your skills.
+
+https://www.informit.com/
+
+https://github.com/oddsun/Free-Python-Books/blob/master/book/Learn%20More%20Python%203%20the%20Hard%20Way%20-%20The%20Next%20Step%20for%20New%20Python%20Programmers.pdf
+
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
